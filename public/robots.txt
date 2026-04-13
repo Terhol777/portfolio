@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Terhol777.github.io/sitemap.xml
