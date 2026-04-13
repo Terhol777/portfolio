@@ -49,7 +49,7 @@ export default function Hero() {
       >
         <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/50 shadow-2xl shadow-primary/20">
           <Image
-            src="https://sun2-22.userapi.com/s/v1/ig1/J8qZllzAgkCcp2KPUuYztGh02I6rggUlWwSwSz2IevRraD0YnzmgcgdTcyVrbwUCQ2DDzFBb.jpg?quality=96&crop=0,0,899,899&blur=5,10&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=oKSZt1rdkYlha5q2Ly_qdAUOmgR32KWFTeFoXts7xOY&cs=200x200"
+            src="https://portal.rudn-sochi.ru/pluginfile.php/277916/user/icon/classic/f1?rev=3278606"
   alt="Алан Хубежов"
   fill
   className="object-cover"
