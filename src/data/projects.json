@@ -1,1 +1,62 @@
-
+[
+  {
+    "id": "1",
+    "title": "FinDash Analytics",
+    "description": {
+      "ru": "Панель аналитики для финансовых данных с интерактивными графиками и отчётами.",
+      "en": "Analytics dashboard for financial data with interactive charts and reports."
+    },
+    "image": "https://camo.githubusercontent.com/94291933a5a6a28c0d1e027f9361fe2cd5bced9d77ebfcadaf1ccefb734bc721/68747470733a2f2f696b2e696d6167656b69742e696f2f636865776465652f66696e646173682e706e673f7570646174656441743d31373432373433303537373534",
+    "tags": ["React", "D3.js", "Tailwind", "Node.js"],
+    "demoUrl": "https://findash-stocks.vercel.app/",
+    "repoUrl": "https://github.com/ochudi/findash"
+  },
+  {
+    "id": "2",
+    "title": "EcoMarket",
+    "description": {
+      "ru": "Маркетплейс экологичных товаров с системой рекомендаций.",
+      "en": "Eco-friendly marketplace with recommendation system."
+    },
+    "image": "https://private-user-images.githubusercontent.com/58072774/317475964-f8c39051-385a-4b07-ad7a-8b7cda3d275e.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYxMTcyODAsIm5iZiI6MTc3NjExNjk4MCwicGF0aCI6Ii81ODA3Mjc3NC8zMTc0NzU5NjQtZjhjMzkwNTEtMzg1YS00YjA3LWFkN2EtOGI3Y2RhM2QyNzVlLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxM1QyMTQ5NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMGM1ZGU5YjE5MDdhNDk3ODc3MzVjZTIxMzJkYWVkOWExNmZjNWMzZTU5MGEyMTQ3ZTkzNDhjMzAxNTA0MTMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.-R9TBZQBcBp8qVgw-xdPoLxQkU6MbRxUZYvAUHUuAKQ",
+    "tags": ["Next.js", "GraphQL", "Stripe", "Prisma"],
+    "demoUrl": "https://ecomarket.example",
+    "repoUrl": "https://github.com/ahmed-yamany/EcoMarket"
+  },
+  {
+    "id": "3",
+    "title": "Portfolio 3D",
+    "description": {
+      "ru": "Интерактивное портфолио с трёхмерной сценой и анимациями.",
+      "en": "Interactive portfolio with 3D scene and animations."
+    },
+    "image": "https://github.com/sanidhyy/threejs-portfolio/raw/main/.github/images/img_main.png",
+    "tags": ["Three.js", "React Three Fiber", "Framer Motion"],
+    "demoUrl": "https://portfolio-3js.netlify.app/",
+    "repoUrl": "https://github.com/sanidhyy/threejs-portfolio"
+  },
+  {
+    "id": "4",
+    "title": "TaskFlow",
+    "description": {
+      "ru": "Совместный менеджер задач с реальным временем и drag-and-drop.",
+      "en": "Collaborative task manager with real-time updates and drag-and-drop."
+    },
+    "image": "https://taskflow.github.io/images/performance.png",
+    "tags": ["React", "Socket.io", "Redux Toolkit", "Express"],
+    "demoUrl": "https://taskflow.github.io/",
+    "repoUrl": "https://github.com/taskflow/taskflow"
+  },
+  {
+    "id": "5",
+    "title": "WeatherVue",
+    "description": {
+      "ru": "Приложение погоды с красивыми визуализациями и прогнозом на неделю.",
+      "en": "Weather app with beautiful visualizations and weekly forecast."
+    },
+    "image": "https://github.com/scc416/weather/raw/master/docs/desktop.png",
+    "tags": ["Next.js", "Chart.js", "OpenWeather API", "Tailwind"],
+    "demoUrl": "https://the-weather-vue.netlify.app/",
+    "repoUrl": "https://github.com/scc416/weather"
+  }
+]
